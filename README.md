@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello out there 👋
 
 Welcome to my GitHub! I’m a **Front-End Mobile Developer Intern** at [Gig Plus Analytics] and a recent graduate with an **Honours Diploma from Keyin College**.  
 I’m passionate about continuous learning in the software development space, crafting clean, user-friendly interfaces and mapping out user journeys that make digital experiences smoother and more enjoyable.
